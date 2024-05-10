@@ -1,0 +1,12 @@
+button{
+  margin: 1em;
+}
+
+.contOp{
+  display: flex;
+  flex-direction: column;
+}
+
+.contOp button{
+  width: 10em;
+}

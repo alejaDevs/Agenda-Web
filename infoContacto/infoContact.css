@@ -1,0 +1,15 @@
+.container{
+    width: 30em;
+}
+
+.containerImg{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-left: .1em solid rgb(207, 207, 207);
+}
+
+.containerImg button{
+    margin-top: 1em;
+}
